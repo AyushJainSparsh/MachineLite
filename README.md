@@ -55,7 +55,7 @@ Contributions to MachineLite are warmly welcomed! If you'd like to contribute, p
 ### Contact
 For any questions or issues, feel free to reach out to:
 
-Author: Ayush Jain Sparsh
-Email: ayushjainsparsh2004.ajs@gmail.com
+* Author: Ayush Jain Sparsh
+* Email: ayushjainsparsh2004.ajs@gmail.com
 
 ---
