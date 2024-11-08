@@ -40,6 +40,12 @@ Contributions to MachineLite are warmly welcomed! If you'd like to contribute, p
 
 ---
 
+### Documentation
+
+**MachineLite:** [View Here](https://pypi.org/project/machinelite/0.0.1/)
+
+---
+
 ### License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AyushJainSparsh/MachineLite?tab=MIT-1-ov-file)
