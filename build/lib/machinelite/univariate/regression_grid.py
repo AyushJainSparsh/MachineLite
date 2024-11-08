@@ -29,25 +29,21 @@ models = [
 param_grids = {
     'LinearRegression': {
         'fit_intercept': [True, False],
-        'normalize': [True, False]
     },
     'Lasso': {
         'alpha': [0.01, 0.1, 1, 10, 100],
         'fit_intercept': [True, False],
-        'normalize': [True, False],
         'max_iter': [1000, 2000, 3000]
     },
     'Ridge': {
         'alpha': [0.01, 0.1, 1, 10, 100],
         'fit_intercept': [True, False],
-        'normalize': [True, False],
         'max_iter': [1000, 2000, 3000]
     },
     'ElasticNet': {
         'alpha': [0.01, 0.1, 1, 10, 100],
         'l1_ratio': [0.1, 0.3, 0.5, 0.7, 0.9],
         'fit_intercept': [True, False],
-        'normalize': [True, False],
         'max_iter': [1000, 2000, 3000]
     },
     'DecisionTreeRegressor': {
