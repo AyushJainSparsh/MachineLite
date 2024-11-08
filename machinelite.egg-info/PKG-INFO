@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: machinelite
+Version: 0.0.1
+Summary: Sci-Lite is Light version of Supervised Machine Learning Model
+Home-page: https://github.com/AyushJainSparsh/MachineLite.git
+Author: Ayush Jain Sparsh
+Author-email: ayushjainsparsh2004.ajs@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+
+# **MachineLite**
+
+
+**MachineLite** provides a streamlined solution for evaluating various supervised machine learning algorithms, simplifying the data scientist's workflow by automating model integration and evaluation. With just a few lines of code, SciLite enables quick access to essential machine learning evaluations, saving valuable time and effort.
+
+### Installation
+
+To install the package, run:
+
+'''bash
+pip install machinelite
+'''
+
+### Usage
+
+Basic example of how to use the package in Python:
+
+'''bash
+from machinelite.univariate.regression import Regression as reg
+result = reg(X_train, X_test, y_train, y_test)
+print(result)
+'''
+
+### Features
+
+- **One-Click Model Integration:** Supports easy integration and evaluation of multiple supervised machine learning models, whether for regression or classification.
+- **Efficient Model Evaluation:** Simplifies machine learning model evaluations with standardized output, aiding in faster analysis and comparisons.
+
+### Contributing
+
+Contributions to MachineLite are warmly welcomed! If you'd like to contribute, please fork the repository and submit a pull request or open an issue to discuss improvements.
+
+### Contact
+For any questions or issues, feel free to reach out to:
+
+Author: Ayush Jain Sparsh
+Email: ayushjainsparsh2004.ajs@gmail.com
