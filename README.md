@@ -44,6 +44,8 @@ Contributions to MachineLite are warmly welcomed! If you'd like to contribute, p
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AyushJainSparsh/MachineLite?tab=MIT-1-ov-file)
 
+---
+
 ### Contact
 For any questions or issues, feel free to reach out to:
 
