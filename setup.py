@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="machinelite",
-    version="0.0.1",
+    version="0.0.2",
     author="Ayush Jain Sparsh",
     author_email="ayushjainsparsh2004.ajs@gmail.com",
     description="Sci-Lite is Light version of Supervised Machine Learning Model",
